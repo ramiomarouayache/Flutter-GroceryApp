@@ -1,7 +1,8 @@
-# GroceryApp Starter app
+# GroceryApp Starter
 
-New style for App Design aims for Grocery App...😀😎.
-Star⭐ the repo if you like what you see😉.
+Streamlined grocery app template for a straightforward shopping experience. 🛒✨
+
+Feel free to star ⭐ the repository if you find it valuable.
 
 ## Screenshots
 
@@ -9,13 +10,21 @@ Star⭐ the repo if you like what you see😉.
 ![screenshot_1](https://github.com/ramiomarouayache/Flutter-GroceryApp/blob/main/screenshots/Cover.jpg)
 
 
-## ✨ Requirements
+## ✨Requirements
 
-* Any IDE with Flutter SDK installed (ie. VSCode, Android Studio, IntelliJ etc)
-* A little to medium knowledge of Dart and Flutter
-* Mvvm architecture basics
-* Knowledge of dealing with APIs
-* State management basics (Getx)
+1. **Development Environment:**
+   - Any IDE with Flutter SDK installed (e.g., VSCode, Android Studio, IntelliJ)
+
+2. **Knowledge Base:**
+   - Basic to intermediate knowledge of Dart and Flutter
+   - Understanding of MVVM architecture
+   - Familiarity with API handling
+   - Basics of state management using GetX
+
+
+## Notice
+* You can download the pre-released version for android devices from here [releases](https://github.com/ramiomarouayache/Flutter-GroceryApp/releases/tag/v0.3.1).
+* Some of the images used in the pre-released version are not copyright-free so I deleted them.
 
 ## Contributing
 
@@ -24,9 +33,6 @@ Please fork this repository and contribute back using
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
-
-### Contact - Let's become friends
-- [Github](https://github.com/ramiomarouayache)
 
 
 ## Getting Started
