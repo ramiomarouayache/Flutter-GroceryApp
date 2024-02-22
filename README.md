@@ -13,7 +13,7 @@ Feel free to star ⭐ the repository if you find it valuable.
 ## ✨Requirements
 
 1. **Development Environment:**
-   - Any IDE with Flutter SDK installed (e.g., VSCode, Android Studio, IntelliJ)
+   - Any IDE with Flutter SDK installed (e.g., VSCode, Android Studio, IntelliJ...etc)
 
 2. **Knowledge Base:**
    - Basic to intermediate knowledge of Dart and Flutter
@@ -27,22 +27,25 @@ Feel free to star ⭐ the repository if you find it valuable.
 
   
 ## Setup
-* First you need to config your product endpoint, credential, parameters...etc from lib\constants\AppConstants
-* **Or** you can test the free endpoint (free as of the date of sharing this) mentioned in the code below and it will work successfully.
+* Start by configuring your product endpoint, credentials, and parameters in `lib\constants\AppConstants`.
+* **Alternatively**, use the free endpoint provided below (as of the sharing date) for successful testing.
 ```dart
 class AppConstants {
-  //Free API was used in the released version =>
-  //static const String BASE_URL = "https://world.openfoodfacts.org/api/v2";
-
+  // Replace "YOUR_API_PREFIX" with your own API base URL.
   static const String BASE_URL = "YOUR_API_PREFIX";
   static const String API_KEY = "YOUR_API_KEY"; //IF_EXIST
-  static const String projectOwnerName = "Rami Omar";
+
+  // For testing, use the free API base URL from the released version
+  static const String BASE_URL = "https://world.openfoodfacts.org/api/v2";
+
+  // Project owner full name.
+  static const String projectOwnerName = "FULL_NAME";
 }
 ```
 
 ## Notice
-* If you want to use your own API endpoints, you will need to change all associated logical layers according to the MVVM architecture based on your endpoint documentation.
-* Some of the images used in the pre-released version are not copyright-free so I deleted them.
+* To use your own API endpoints, customize logical layers following MVVM architecture guidelines based on your API documentation.
+* Certain images in the pre-released version were removed due to copyright restrictions.
 
 ## Contributing
 
