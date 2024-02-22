@@ -1,9 +1,7 @@
 import 'package:get/get.dart';
 import 'package:holmon/domain/cartViewModel.dart';
 import 'package:holmon/domain/categorieViewModel.dart';
-import 'package:holmon/domain/gameViewModel.dart';
 import 'package:holmon/domain/productViewModel.dart';
-import 'package:holmon/domain/searchViewModel.dart';
 import 'package:holmon/models/product_repo_Impl.dart';
 import 'package:holmon/models/shopingCart_repo_impl.dart';
 import 'package:holmon/models/source/local/cart_local_storage.dart';
@@ -38,9 +36,9 @@ Future initDependencies() async {
 
   Get.put(CategorieViewModel());
 
-  Get.put(SearchViewModel());
+  //Get.put(SearchViewModel());
 
-  Get.put(MyGameController());
+  //Get.put(MyGameController());
 }
 
 Future<LottieComposition?> customDecoder(List<int> bytes) {

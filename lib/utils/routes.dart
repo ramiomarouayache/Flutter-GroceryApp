@@ -1,5 +1,4 @@
 import 'package:get/get.dart';
-import 'package:holmon/views/ar_experience.dart';
 import 'package:holmon/views/cart.dart';
 import 'package:holmon/views/dashboard.dart';
 import 'package:holmon/views/home.dart';
@@ -24,6 +23,6 @@ class MyRoutes {
     GetPage(name: '/vegetables', page: () => VegetablesScreen()),
     //GetPage(name: '/search', page: () => VegetablesSearchScreen()),
     GetPage(name: '/details', page: () => VegetableDetailScreen()),
-    GetPage(name: '/ArExperience', page: () => ArExperience()),
+    //GetPage(name: '/ArExperience', page: () => ArExperience()),
   ];
 }

@@ -8,9 +8,7 @@ import 'package:holmon/views/common_widgets/appBar.dart';
 import 'package:holmon/views/common_widgets/dropDownHomeMenu.dart';
 import 'common_widgets/carousel.dart';
 import 'package:get/get.dart';
-
 import 'common_widgets/categories_view.dart';
-import 'common_widgets/horizontal_offre_list.dart';
 import 'common_widgets/horizontal_product_list.dart';
 import 'common_widgets/see_all_view.dart';
 

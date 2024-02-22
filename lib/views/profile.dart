@@ -5,7 +5,6 @@ import 'package:get/get.dart';
 import 'package:holmon/constants/appConstants.dart';
 import 'package:holmon/constants/assets.dart';
 import 'package:holmon/utils/helper.dart';
-import 'package:holmon/views/common_widgets/game.dart';
 import 'package:holmon/views/common_widgets/profileList.dart';
 import 'package:lottie/lottie.dart';
 
