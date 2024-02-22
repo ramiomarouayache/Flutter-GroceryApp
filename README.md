@@ -29,7 +29,7 @@ Feel free to star ⭐ the repository if you find it valuable.
 ## Setup
 * First you need to config your product endpoint, credential, parameters...etc from lib\constants\AppConstants
 * **Or** you can test the free endpoint (free as of the date of sharing this) mentioned in the code below and it will work successfully.
-```
+```dart
 class AppConstants {
   //Free API was used in the released version =>
   //static const String BASE_URL = "https://world.openfoodfacts.org/api/v2";
