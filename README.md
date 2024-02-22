@@ -20,10 +20,24 @@ Feel free to star ⭐ the repository if you find it valuable.
    - Understanding of MVVM architecture
    - Familiarity with API handling
    - Basics of state management using GetX
+  
+## Setup
+* First you need to config your product endpoint, credential, parameters...etc from lib\constants\AppConstants
+* **Or** you can test the free endpoint (free as of the date of sharing this) mentioned in the code below and it will work successfully.
+```
+class AppConstants {
+  //Free API was used in the released version =>
+  //static const String BASE_URL = "https://world.openfoodfacts.org/api/v2";
 
+  static const String BASE_URL = "YOUR_API_PREFIX";
+  static const String API_KEY = "YOUR_API_KEY"; //IF_EXIST
+  static const String projectOwnerName = "Rami Omar";
+}
+```
 
 ## Notice
 * You can download the pre-released version for android devices from here [releases](https://github.com/ramiomarouayache/Flutter-GroceryApp/releases/tag/v0.3.1).
+* If you want to use your own API endpoints, you will need to change all associated logical layers according to the MVVM architecture based on your endpoint documentation.
 * Some of the images used in the pre-released version are not copyright-free so I deleted them.
 
 ## Contributing
