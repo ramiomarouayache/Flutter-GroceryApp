@@ -23,7 +23,7 @@ Feel free to star ⭐ the repository if you find it valuable.
   
 ## Test
 * You can download the pre-released version for android devices from here [releases](https://github.com/ramiomarouayache/Flutter-GroceryApp/releases/tag/v0.3.1).
-* ![lv_0_20240221103339-ezgif com-optimize](https://github.com/ramiomarouayache/Flutter-GroceryApp/assets/98425058/65e4271b-cd54-4e0b-8dfa-2bf97d2f262d)
+<video src="https://github.com/ramiomarouayache/Flutter-GroceryApp/assets/98425058/5ae355c9-39e0-478e-9b3e-870953b566ca"></video>
 
   
 ## Setup
