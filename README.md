@@ -4,10 +4,12 @@ Streamlined grocery app template for a straightforward shopping experience. 🛒
 
 Feel free to star ⭐ the repository if you find it valuable.
 
-## Screenshots
+## Design
 
-**Please click the image below to enlarge.**
-![screenshot_1](https://github.com/ramiomarouayache/Flutter-GroceryApp/blob/main/screenshots/Cover.jpg)
+**Click the image below to view the Figma design:**
+
+[![Design Preview](https://github.com/ramiomarouayache/Flutter-GroceryApp/blob/main/screenshots/Cover.jpg)](https://www.figma.com/embed?embed_host=oembed&amp;url=https://www.figma.com/file/eyeYwe0hoEch31j6d3EXyE/GroceryApp-Starter-(Community)?type=design&amp;node-id=3-2&amp;mode=design&amp;t=LwLW2onM0GKLuFdU-0)
+
 
 
 ## ✨Requirements
