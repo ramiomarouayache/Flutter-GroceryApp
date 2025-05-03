@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 class AppThemes {
   static final lightTheme1 = ThemeData(
     colorScheme: ColorScheme.light(
-      background: Colors.white,
+      surface: Colors.white,
       primary: Color(0xff98A2B3),
       secondary: Colors.grey[300]!,
     ),
@@ -44,8 +44,8 @@ class AppThemes {
           constraints: BoxConstraints.tight(const Size.fromHeight(40)),
         ),
         menuStyle: MenuStyle(
-          backgroundColor: MaterialStatePropertyAll<Color>(
-              Color.fromARGB(255, 255, 255, 255)),
+          backgroundColor:
+              WidgetStatePropertyAll<Color>(Color.fromARGB(255, 255, 255, 255)),
         )),
   );
 
@@ -53,7 +53,7 @@ class AppThemes {
     canvasColor: Color(0xff1A3848),
     primaryColor: const Color(0xff2382AA),
     colorScheme: ColorScheme.dark(
-        background: Color(0xff0D1F29),
+        surface: Color(0xff0D1F29),
         primary: Color(0xff98A2B3),
         secondary: Colors.grey[800]!),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
@@ -95,7 +95,7 @@ class AppThemes {
         ),
         menuStyle: MenuStyle(
           backgroundColor:
-              MaterialStatePropertyAll<Color>(Color.fromARGB(255, 26, 56, 72)),
+              WidgetStatePropertyAll<Color>(Color.fromARGB(255, 26, 56, 72)),
         )),
   );
 }

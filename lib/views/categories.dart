@@ -186,7 +186,7 @@ class CategoryItem extends StatelessWidget {
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(0),
         color: isSelected
-            ? Theme.of(context).colorScheme.background
+            ? Theme.of(context).colorScheme.surface
             : Theme.of(context).cardColor,
       ),
       child: Center(
