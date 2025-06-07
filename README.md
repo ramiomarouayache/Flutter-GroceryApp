@@ -66,11 +66,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-## Support
-If you find this project helpful and would like to support my work, consider buying me a coffee! Your contributions help me continue to improve and maintain the project.
-
-<a href="https://www.paypal.com/ncp/payment/CS82P9MRPAPZE" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 ## Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/GroceryApp/count.svg" alt ="Loading">
