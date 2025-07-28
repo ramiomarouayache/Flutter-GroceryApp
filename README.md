@@ -33,7 +33,7 @@ Feel free to star ⭐ the repository if you find it valuable.
 * **Alternatively**, use the free endpoint provided below (as of the sharing date) for successful testing.
 ```dart
 class AppConstants {
-  // Base url used on the demo or replace with "YOUR_OWN_API"
+  // This is the demo API URL. To use your own backend, replace it with your own URL.
   static const String BASE_URL = "https://world.openfoodfacts.org/api/v2";
 
   // Project owner full name.
