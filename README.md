@@ -33,21 +33,20 @@ Feel free to star ⭐ the repository if you find it valuable.
 * **Alternatively**, use the free endpoint provided below (as of the sharing date) for successful testing.
 ```dart
 class AppConstants {
-  // Replace "YOUR_API_PREFIX" with your own API base URL.
-  static const String BASE_URL = "YOUR_API_PREFIX";
-  static const String API_KEY = "YOUR_API_KEY"; //IF_EXIST
-
-  // For testing, use the free API base URL from the released version
+  // Base url used on the demo or replace with "YOUR_OWN_API"
   static const String BASE_URL = "https://world.openfoodfacts.org/api/v2";
 
   // Project owner full name.
   static const String projectOwnerName = "FULL_NAME";
+
+   // openfoodfacts api/v2 docs
+  // => https://wiki.openfoodfacts.org/Open_Food_Facts_Search_API_Version_2
 }
 ```
 
 ## Notice
-* To use your own API endpoints, customize logical layers following MVVM architecture guidelines based on your API documentation.
 * Certain images in the pre-released version were removed due to copyright restrictions.
+* To integrate your own API, modifications to the app’s data models and service layers will be required.
 
 ## Contributing
 
